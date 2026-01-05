@@ -60,16 +60,16 @@
 
 <div align="center">
   <!-- GitHub stats -->
-  <img src="https://streak-stats.demolab.com?user=RonhyRaktosMG&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" />
-  <img src="https://github-profile-trophy.vercel.app?username=RonhyRaktosMG&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph" />
+  <img src="https://streak-stats.demolab.com?user=RonhyRaktosMG&theme=dracula&mode=daily&hide_border=false" height="150" alt="streak graph" />
+  <img src="https://github-profile-trophy.vercel.app/?username=RonhyRaktosMG&theme=dracula" height="150" alt="trophy graph" />
 </div>
 
 ###
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RonhyRaktosMG/RonhyRaktosMG/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RonhyRaktosMG/RonhyRaktosMG/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/RonhyRaktosMG/RonhyRaktosMG/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RonhyRaktosMG/RonhyRaktosMG/main/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RonhyRaktosMG/RonhyRaktosMG/main/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/RonhyRaktosMG/RonhyRaktosMG/main/output/pacman-contribution-graph.svg">
 </picture>
 
 ###
